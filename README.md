@@ -12,8 +12,12 @@ HOW TO RUN:
 The software is hosted on github here https://github.com/cincimatti/Fetch-News.
 It can be reached at https://cincimatti.github.io/Fetch-News/index.html for live demonstrations.
 
+UPDATES:
+Update: A custom style sheet was added using CSS to modify default page settings.
+Update: Additional text styling was added to center header.
+
 ROADMAP:
-1.) ROADMAPPED FEATURES: No additional features have been roadmapped at this time.
+New Features: No additional features have been roadmapped at this time.
 
 OPERATING INSTRUCTIONS:
 The web URL provided will open the webapp landing page. 
