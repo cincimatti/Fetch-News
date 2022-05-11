@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  margin: 10px;
+}
+
+.pagination {
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.btn-primary {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
